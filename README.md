@@ -12,6 +12,9 @@ Neko Ferrara
 1. slidingWindowNF.py
 
 
+David Kumar
+1. SVM.py 
+
 Group: 
 
 hybrid.py combining ORB and slidingWindow
