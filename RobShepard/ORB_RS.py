@@ -1,6 +1,5 @@
 ''' 
-#Robert Shepard
-#CSEC 472 - Lab 4
+ORB method 
 
 import cv2
 import os
