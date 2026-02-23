@@ -1,1 +1,1 @@
-biometric fingerprint scanner for a firearm safe 
+biometric fingerprint scanner using ORB and Sliding Window 
